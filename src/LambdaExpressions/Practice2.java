@@ -1,4 +1,4 @@
-package Method;
+package LambdaExpressions;
 
 interface Taxi{
     public void bookLyft(String source, String destination);
@@ -16,8 +16,8 @@ public class Practice2 {
         Taxi taxi = (source, destination)-> System.out.println("Lyft cab is booked from "+source+" to "+destination);
         taxi.bookLyft("Toronto","Brampton");
 
-        Taxi1 taxi1=(String source, String destination, int fare)-> {System.out.println("Uber cab is booked from "
-                +source+" to "+destination);return("Fare is "+ fare);};
+        Taxi1 taxi1=(source,destination,fare)-> {System.out.println("Uber cab is booked from "
+                +source+" to "+destination);return("Fare is $"+ fare);};
         System.out.println(taxi1.bookUber("Scarborough", "Mississauga", 255));
 
     }

@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Practice {
+public class Practice1 {
     public static void main(String[] args) {
         List<String> vehicles = Arrays.asList("bus","car","bicycle","train","flight");
         List<String> uppercase= new ArrayList<>();

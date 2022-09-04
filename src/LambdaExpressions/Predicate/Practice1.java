@@ -2,7 +2,7 @@ package LambdaExpressions.Predicate;
 
 import java.util.function.Predicate;
 
-public class Practice {
+public class Practice1 {
 
     public static void main(String[] args) {
 

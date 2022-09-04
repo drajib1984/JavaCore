@@ -1,2 +1,5 @@
-package Interface.MultipleInheritance;public interface BankRule {
+package Interface.MultipleInheritance;
+
+public interface BankRule {
+    void bankRule();
 }

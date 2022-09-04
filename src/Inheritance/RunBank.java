@@ -1,6 +1,6 @@
 package Inheritance;
 
-public class Run {
+public class RunBank {
     public static void main(String[] args) {
         SBI sbi = new SBI();
         System.out.println(sbi.HomeLoanROI());

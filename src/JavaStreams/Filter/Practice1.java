@@ -2,11 +2,10 @@ package JavaStreams.Filter;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Practice {
+public class Practice1 {
     public static void main(String[] args) {
         ArrayList<Integer> integerArrayList= new ArrayList<Integer>();
         integerArrayList.add(25);

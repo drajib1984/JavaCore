@@ -1,6 +1,4 @@
-package Day1;
-
-import org.w3c.dom.ls.LSOutput;
+package Varaiable_DataTypes_Operators;
 
 import java.util.Scanner;
 
