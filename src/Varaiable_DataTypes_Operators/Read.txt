@@ -1,0 +1,24 @@
+Variables :
+containers that can hold the values. Eg x,y,z
+int x //declaration
+x=100 // initialization
+int x=100 // declaration & initialization together
+
+Data types:
+i. Primitive data types : int, float, double, char, boolean, short
+ii. Derived data types: (are pre-defined classes in Java) Array, ArrayList, String, Hashmap etc
+
+Operators:
+performs operation between two or more operands
+Types of operators:
+i. Arithmetic operators: +,-,*,/,%
+ii. Relational operators : always return boolean value, ==,>,<,>=,<=,!=
+iii. Logical operators : works between two boolean values, &&,||,!
+iv. Incremental or decremental operators , ++,--
+v. Assignment operator, =
+
+    x       y           x&&y     x||y      !x
+  True    True          True     True     False
+  False   True          False    True      True
+  True    False         False    True     False
+  False   False         False    False    True

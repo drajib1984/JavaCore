@@ -1,0 +1,11 @@
+Java Control Statements:
+a. Conditional Statements (if-else)
+b. Conditional statement (nested if-else, meaning number of if-else statements)
+c. Conditional statements (switch-case)
+d. Loop statement : one or multiple statements can b repeated multiple times based on situation
+eg. do while(), while()
+e. Jump statements : break, continue
+
+For break, if the condition comes true, program comees out totally from loop and no further execution happens
+For continue, if the condition comes true, then the particular step arising of condition is skipped, and rest of
+the program continues

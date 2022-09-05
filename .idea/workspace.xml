@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d41354a-a79c-478f-a182-97e159ba26a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/JavaControlStatements/Read.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Varaiable_DataTypes_Operators/Read.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +142,9 @@
       <workItem from="1661871682846" duration="39712000" />
       <workItem from="1662126620076" duration="22345000" />
       <workItem from="1662334033269" duration="1191000" />
-      <workItem from="1662335657706" duration="2228000" />
+      <workItem from="1662335657706" duration="2593000" />
+      <workItem from="1662339488406" duration="55000" />
+      <workItem from="1662397780440" duration="1139000" />
     </task>
     <servers />
   </component>
