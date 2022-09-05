@@ -2,70 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d41354a-a79c-478f-a182-97e159ba26a1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Assignments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Assignments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Practices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Practices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/ArrayList/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/ArrayList/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/HashSet/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/HashSet/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/HashSet/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/HashSet/Readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/LinkedHashSet/Practices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/LinkedHashSet/Practices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/LinkedList/Practices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/LinkedList/Practices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/Queue/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Queue/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructor/Practices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constructor/Practices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionHandling/CheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionHandling/CheckedException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionHandling/UncheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionHandling/UncheckedException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMap/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashTable/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashTable/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/ComputerTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/ComputerTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/ICICI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/ICICI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/RunBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/RunBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/RunTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/RunTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/SBI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/SBI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/HybridInheritance/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/HybridInheritance/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/HybridInheritance/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/HybridInheritance/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/HybridInheritance/HDFC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/HybridInheritance/HDFC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/HybridInheritance/SBI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/HybridInheritance/SBI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/MultipleInheritance/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/MultipleInheritance/BankRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/BankRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/MultipleInheritance/SBI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/MultipleInheritance/SBI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaControlStatements/Practices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaControlStatements/Practices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStreams/Filter/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStreams/Filter/Practice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStreams/Filter/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStreams/Filter/Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStreams/FlatMap/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStreams/FlatMap/Practice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStreams/FlatMap/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStreams/FlatMap/Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStreams/Map/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStreams/Map/Practice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStreams/Map/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStreams/Map/Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStreams/ParallelStream/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStreams/ParallelStream/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStreams/StreamMethods/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStreams/StreamMethods/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions/Consumer/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions/Consumer/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions/Consumer/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions/Consumer/Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions/Functions/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions/Functions/Practice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions/Functions/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions/Functions/Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions/Functions/Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions/Functions/Practice3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions/Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions/Practices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions/Practices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions/Predicate/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions/Predicate/Practice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions/Predicate/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions/Predicate/Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions/Predicate/Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions/Predicate/Practice3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions/Supplier/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions/Supplier/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method/Practices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method/Practices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedPrograming/Assignment_Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedPrograming/Assignment_Calculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedPrograming/Assignment_Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedPrograming/Assignment_Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedPrograming/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedPrograming/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedPrograming/EmployeeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedPrograming/EmployeeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polymorphism/ConstructorOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polymorphism/ConstructorOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polymorphism/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polymorphism/MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polymorphism/StaticMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polymorphism/StaticMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polymorphism/ThisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polymorphism/ThisKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String/Practices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/Practices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Super/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Super/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Super/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Super/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Super/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Super/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Varaiable_DataTypes_Operators/Assignments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Varaiable_DataTypes_Operators/Assignments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Varaiable_DataTypes_Operators/Practices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Varaiable_DataTypes_Operators/Practices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,18 +32,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="LambdaExpressions" />
@@ -202,7 +139,8 @@
       <workItem from="1661790140080" duration="6357000" />
       <workItem from="1661871682846" duration="39712000" />
       <workItem from="1662126620076" duration="22345000" />
-      <workItem from="1662334033269" duration="1018000" />
+      <workItem from="1662334033269" duration="1191000" />
+      <workItem from="1662335657706" duration="2228000" />
     </task>
     <servers />
   </component>

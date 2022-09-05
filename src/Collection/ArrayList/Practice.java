@@ -82,5 +82,6 @@ public class Practice {
         System.out.println(arr);
         ArrayList animal = new ArrayList(Arrays.asList(arr));
         System.out.println(animal);
+
     }
 }
