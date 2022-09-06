@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d41354a-a79c-478f-a182-97e159ba26a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collection/Read.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Read.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Read.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Read.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOrientedPrograming/Read.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Read.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Read.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Super/Read.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Read.txt" afterDir="false" />
-    </list>
+    <list default="true" id="3d41354a-a79c-478f-a182-97e159ba26a1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +141,7 @@
       <workItem from="1662335657706" duration="2593000" />
       <workItem from="1662339488406" duration="55000" />
       <workItem from="1662397780440" duration="4856000" />
-      <workItem from="1662409697726" duration="7761000" />
+      <workItem from="1662409697726" duration="8982000" />
     </task>
     <servers />
   </component>

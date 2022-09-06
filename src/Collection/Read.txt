@@ -23,18 +23,39 @@ ii. Duplicates are allowed
 
 Classes implementing List(I)=> ArrayList, LinkedList, VectorList
 
+If the data needs more of fetching or retrieving operations , use ArrrayList as the values can be get using index
+If the dat needs frequent update (insertion/deletion), use LinkedList as sifting of elements donot happen
+unlike ArrayList
+
 Set(I)=>
 i. Insertion order NOT preserved
 ii. Duplicates are NOT allowed
 
+Sorting & shuffling not possible as insertion order isnot maintained
+
 Classes implementing Set(I)=> HashSet, LinkedHashSet
+
+LinkedHashSet: Duplicates arenot allowed however, insertion order is maintained
 
 Queue(I)=>
 i. Used for prior to processing objects. Basically FIFO
+
+Heterogeneous data NOT allowed
 
 Classes implementing Queue(I)=> priorityQueue
 
 Map(I) is independent of Collection (I) and isnot related in any way.
 Map is used to store data in key-value pair
+Duplicate keys not allowed, however values can be duplicate
 
-Classes implementing Map(I)=> HashMap, LinkedHashMap, HashTable
+Classes implementing Map(I)=> HashMap,HashTable
+
+HashMap:
+1. Underlying structure is hashtable
+2.Insertion order not preserved
+3. Duplicate keys not allowed, but duplicate values allowed
+4. Null key allowed once, null value allowed multiple times
+
+hashtable
+1. Null not accepted in key & value
+2.Insertion order is not maintained

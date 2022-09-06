@@ -1,0 +1,17 @@
+Lambda expressions: to bring functional programming features in Java. Code optimization, i.e. to reduce number
+of lines of code. Available from Java 8
+lambda expressions are anonymous functions i.e nameless, no return type , no access-modifiers
+Remember if you use return statement, put inside curly braces with ;
+
+a->{return a*a;};
+
+Functional interface required to invoke lambda functions. Functionall inteerfaces are those which contain only 1
+abstract method. However, from Java 8 to qualify for functional interface, interface must contain only 1 abstract
+method and / or any number of default or static methods
+
+Pre-defined functional interface:
+
+1. Predicate=> test(). Used for conditional checks & return boolean
+2.Function=> apply(). used to geet a return value of any type. Keep note that it returns single value
+3.Consumer=> accept(). Takes single input, but doesn't return any parameter , performs some function
+4.Supplier=> get(). Takes nothing, returns an output

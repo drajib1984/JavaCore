@@ -1,0 +1,9 @@
+Streams: to process data in collection, streams are used
+
+filter()=> used for filtering data and provide necessary data from original source. Always takes predicate and
+return boolean
+map()=> transforms the source data in stream and provides an entirely new set of data
+
+flatmap()=> uused to process complex data, e.g. collection inside a collection
+
+parallelstream()=> used to run the data in parallel streams to faster the process
