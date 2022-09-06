@@ -1,0 +1,23 @@
+Inheritance: is the process of acquiring all the properties and behaviours of one class(parent) to another
+class(child class)
+
+Types of inheritance:
+i. Single inheritance // Class B extends Class A            A==>B
+
+ii. Multi level inheritance
+// Class C extends class B
+//Class B extends class A       A===>B===>C
+
+iii. Hierarchical inheritance
+ //Class C extends A                  A==>C
+ //Class B extends A                  A==>B
+
+iv. Multiple inheritance (uses interface)
+//interface A
+// interface B
+// Class C implements A,B
+
+v. Hybrid inheritance
+// class A
+// interface B  // interface C
+// class D extends A implements B,C

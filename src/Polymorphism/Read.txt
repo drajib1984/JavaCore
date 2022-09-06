@@ -1,0 +1,30 @@
+Polymorphism:
+means many forms :
+
+Types of polymorphism:
+1. Compile time polymorphism=> can bee achieved by method overloading, handled by compiler
+2. Runtime polymorphism=> can be achieved bby method overriding, handled by JVM
+
+                 Method Overloading                                  Method Overriding
+           Same Class                                              Different Class
+ Different arguments=> i. No. of arguments                 Different arguments=> i. No. of arguments
+                       ii. Sequence of arguments                                ii. Sequence of arguments
+                       iii.Type of arguments                                    iii.Type of arguments
+
+
+
+Overloading: creating methods/constructor with same name but with different parameters & data types of parameters
+Advantages: saves time & memory
+
+This keyword: it is used to show the class variables when both class and method variables are same. Keeping the
+same variable saves memory
+
+Static methods: how to access?
+i. static methods can only access static stuff directly w/o creating object
+ii. static method can access non-static stuff thru object creation
+iii. Non-static methods can access both static and non-static stuffs
+
+Over riding:
+
+Its doe thru inheritance and method name & variable should be same. Only the body or logic inside the method
+should be changed in child class

@@ -1,0 +1,30 @@
+Interface: is a blueprint of a class
+Variables in interface are by default static & final
+Methods in interface are by default public & abstract & does not contain body
+Interface supports multiple inheritance
+Class extends a class, interface extends an interface, but class implements an interface
+We can create an object of interface but cannot instantiate
+Interface don't have constructor
+
+Loose coupling is a design goal that seeks to reduce interdependencies between components of a system with a goal
+to reduce the risk that changes in one component will require changes in other component
+
+Loose coupling is intended to make increase the flexibility and make more maintainable and making entire
+framework more stable
+
+
+              Interface Class                                        Abstract Class
+1. supports multiple inheritance                                1. does not support multiple inheritance
+2.No constructor                                                2. has constructor
+3. Method donot have body                                       3. can have method with or without body
+4. Access modifier ny default public                            4.  Can contain access modfiers for different type
+
+Access Modifiers:
+
+defines the scope of variables and methods present inside the class
+
+private: methods and variables are accessible only inside the class
+default:methods and variables are accessible only inside the package
+protected: methods and variables are accessible inside the package and outside the package thru inheritance only
+(extends) along with importing the package of the parent class
+public: we can access anywhere, inside or outside the package w/o inheritance

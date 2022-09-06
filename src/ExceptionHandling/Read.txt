@@ -1,0 +1,26 @@
+Exception is an abnormal condition, in java exception is an event that disrupts the normal flow of the
+program
+Types of exception:
+i. Checked exception : exceptions identified by the compiler, and can be handleed by try-catch block or throws
+ii. Unchecked exception: exceptions that are not identified by the compiler
+
+             Exception                                                    Error
+1. happens because of programs                                     1. happens because of lack oof resources
+2. Exceptions are recoverable, using try-catch                     2. Not recoverable
+3. Two types=> checked & unchecked                                 3. One type => unchecked
+
+Finally block is used to write the corrected programs or close the open files. Finally block will always be
+executed even if there is exception or not
+
+Throw keyword is used for custom exceptions/ user defined exception
+
+Throws is used to declare an exception. It ggives information to caller meethod that there may occur an exception
+so it is better for the caller method to provide an exception handling code so the normal flow can be maintained
+
+                Throw                                                         Throws
+1. Used to create an exception object manually                    1. Used to declare the exception
+2. Used in runtime                                                2. used for compile time exception
+3.Single exception                                                 3. Multiple exception
+4.Used within method                                              4. Used with method signature
+5. Followed by new instance                                        5. Followed by class
+

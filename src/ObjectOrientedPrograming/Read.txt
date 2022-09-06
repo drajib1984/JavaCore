@@ -1,0 +1,45 @@
+Major entities of OOP
+i. Class: collection of methods & variables. Class is a logical entity
+ii. Object: physical entity that has variables and methods. Object is an instance of class
+ii. Method: block of codee that contains logic
+
+6 main pillars of OOP
+i.Class    ii.Object & methods     iii.Inheritance     iv. Polymorphism    v.Inheritance   vi.Encapsulation
+
+We can assign value to variable in 3 ways
+- using reference variable
+- using method
+- using constructor
+
+Differences between method & constructor
+
+           Method                                         Constructor
+1. Method name set up by developer  | 1. Constructor name must be same as class
+ as per wish                        |
+2.Method may or maynot return value |2.Constructor doesn't return value
+3. Method needs to be called        |3.Automatically invoked during object creation
+explicitly                          |
+4. Used for writing logic           |4.Used for initializing value
+
+
+Abstraction: process of hiding the internal implementation & just highlighting the set up services that we are
+offering. A method without body is an abstract method
+
+Two ways of achieving abstraction:
+- By using abstract class
+- By using interfaces
+
+If the class is abstract, method must be declared as abstract. However, abstract method does not need to be in
+abstract class
+
+If a regular class extends an abstract class, then regular class must implement all the abstract methods of the
+abstract parent class
+
+               Abstraction                                             Encapsulation
+1. Abstraction is details hiding                                1. Encapsulation is data hiding
+2.Deals with exposing interface to user                         2.Grouping methods and data together
+and hiding the details of implementation
+
+
+
+

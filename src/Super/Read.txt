@@ -1,0 +1,12 @@
+Super Keyword: super can be used to refer to the immediate parent class instance variable by using the
+method to call in child class
+
+super can be used to invoke the immediate parent class
+
+Method super() can be used to invoke the immediate parent class constructor
+
+Final keyword impact:
+ for variable: cannot change the value
+ for method: cannot override the method in child class
+ for class : cannot extend the class into child class
+

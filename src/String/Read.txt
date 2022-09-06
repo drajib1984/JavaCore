@@ -1,0 +1,71 @@
+String: collection of characters, to be placed inside " ".
+String is a non-primitive data type
+String is a class under Object
+String is immutable object
+
+String can be generated from arrays of characters
+char c[]={'R','A','J','I','B'};
+String s = new String(c);
+
+String can be created thru 3 classes:
+i. String ii. StringBuffer. iii. String Builder
+
+String Constant Pool / String Literal Pool:
+Its an area in heap memory where java stores string literal values.
+It is present in heap area
+SCP stores only the literal values of String
+
+String s = new String("RAJIB"); // 2 objects created, 1 in heap, 1 in SCP
+String t = "RAHUL"; //1 object created in SCP
+
+For String s, we are creating string as new String, so 2 objects are created, 1 in heap, 1 in SCP
+For String t, only 1 object is created in SCP. Always use the 2nd method to makke project faster & consume less
+memory
+String objects in SCP are not subjected to garbage collection, because a reference variable is internally
+maintained by JVM
+
+String s1 = new String("RAJIB"); // 2 objects
+String s2 = new String("RAHUL"); // 2 objects
+String s3 = new String("RAJIB"); // 1 object, created in heap, as same object already exists in SCP
+String s4="AMIT"; // 1 object in SCP
+String s5="RAJIB"// 0 object, as RAJIB already exists in SCP
+
+String s1 = new String("RAJIB");
+s1.concat("DAS")
+sout(s1) // will give RAJIB
+
+s1= s1.concat("DAS") // will give RAJIBDAS
+
+String s1 = new String("RAJIB");
+String s2 = new String("RAJIB");
+
+sout(s1==s2) // false, as they refer to two separate objects in heap
+sout(s1.equals(s2)); // true as .equals() checks the content & returns boolean
+
+String s4="AMIT";
+String s5="AMIT";
+sout(s4==s5) // true, as they refer to same object in SCP
+
+
+Criteria                    String                       String Buffer                     String Builder
+
+Storage                    heap & SCP                        heap                              heap
+
+Object type                  immutable                      mutable                           mutable
+
+Memory usage            High, use if you donot       Less, changes original            Less, as it changes
+                             change  value                    value                       original memory
+
+Thread safety                 not safe                        safe                           not safe
+
+Performance                   slow                          faster                             fastest
+
+Usage                      if data not changing            data changes                        data changes
+                                frequently                   frequently                        frequently
+
+
+
+
+
+
+

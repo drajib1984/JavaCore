@@ -1,0 +1,40 @@
+Collection Framework: why needed?
+We cannot use regular array for below-mentioned reasons
+i. Arrays are fixed in size which needs to be decleared at the beginning
+ii. Only homogeneous data can be stored, like data of same type, int, char, String
+Although we can overcome it by using object type of array //Object obj[]= new Object[10];
+iii. While creating array, no data structures are used. SO there are no pre-defined methods.
+
+Types of framework:
+List, ArrayList, LinkedList, HashSet, LinkedHashSet
+
+Benefits of collection framework:
+i. Growable, size not fixed
+ii. can store homogeneous as well as heterogeneous data types
+iii. uses underlying data structure, so pre-defined or ready-made methods are available
+
+Collection is an interface
+
+Collection interface extends to following interfaces
+
+List(I)=>
+i. Insertion order preserved
+ii. Duplicates are allowed
+
+Classes implementing List(I)=> ArrayList, LinkedList, VectorList
+
+Set(I)=>
+i. Insertion order NOT preserved
+ii. Duplicates are NOT allowed
+
+Classes implementing Set(I)=> HashSet, LinkedHashSet
+
+Queue(I)=>
+i. Used for prior to processing objects. Basically FIFO
+
+Classes implementing Queue(I)=> priorityQueue
+
+Map(I) is independent of Collection (I) and isnot related in any way.
+Map is used to store data in key-value pair
+
+Classes implementing Map(I)=> HashMap, LinkedHashMap, HashTable

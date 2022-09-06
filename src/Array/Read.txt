@@ -1,0 +1,4 @@
+Array : Array is collection of valuees of same type
+Types of Array:
+i. one dimensional, int a[], []=> represents the size
+ii. two dimensional, int a[] [], first[]=> represents row & second []=> represents column
