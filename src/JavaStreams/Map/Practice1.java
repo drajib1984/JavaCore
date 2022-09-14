@@ -39,6 +39,17 @@ public class Practice1 {
         }
 
         System.out.println(num_multply);
+// use of reduce
+        List<Integer> arraylist = Arrays.asList(1,2,3,4,5);
+
+        int reduce = arraylist.stream().mapToInt(i -> i).reduce(1, Math::multiplyExact);
+        System.out.println(reduce);
+
+        Integer reduce1 = arraylist.stream().reduce(1, (a, b) -> (a * b));
+        System.out.println(reduce1);
+
+        Integer reduce2 = arraylist.stream().reduce(0, Integer::sum);
+        System.out.println(reduce2);
 
 
     }
